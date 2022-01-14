@@ -131,7 +131,6 @@ document.querySelector("#random").addEventListener("click", () => {
 document.querySelector("#clear").addEventListener("click", () => {
   arr = buildArr();
   display(arr);
-  clearInterval(interval);
 });
 document.querySelector("#background").addEventListener("click", (event) => {
   manualSetup(event, arr);

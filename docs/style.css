@@ -13,7 +13,8 @@ body {
 }
 
 h1,
-h2 {
+h2,
+p {
   font-family: "Courier New", Courier, monospace;
   color: #4af626;
   margin-top: 20px;
