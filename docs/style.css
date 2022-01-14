@@ -10,6 +10,7 @@ body {
   align-items: center;
   gap: 20px;
   background: #111111;
+  margin: 20px auto;
 }
 
 h1,
@@ -17,7 +18,6 @@ h2,
 p {
   font-family: "Courier New", Courier, monospace;
   color: #4af626;
-  margin-top: 20px;
 }
 
 .card {

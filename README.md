@@ -10,6 +10,10 @@ Implementação do [jogo da vida](https://pt.wikipedia.org/wiki/Jogo_da_vida) em
 
 ---
 
+|                  Software                  |                  Hardware                   |
+| :----------------------------------------: | :-----------------------------------------: |
+| ![software](https://imgur.com/8LuLnBr.png) | ![hardware](https://imgur.com/v3XmHx1.png) |
+
 ## Contribuindo
 
 Pull requests são sempre bem vindos, posso ter esquecido de alguma coisa, ou me passado em algo. Se for uma mudança grande, abre uma Issue antes pra gente discutir as mudanças. Obrigado!
